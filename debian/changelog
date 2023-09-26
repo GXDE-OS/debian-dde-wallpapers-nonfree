@@ -1,8 +1,8 @@
 debian-dde-wallpapers-nonfree (1.8.0) unstable; urgency=medium
 
-  * add nonfree wallpapers.
+  * change package name
 
- -- LiChengGang <lichenggang@uniontech.com>  Mon, 06 Feb 2023 16:04:40 +0800
+ -- gfdgd xi <3025613752@qq.com>  Tue, 26 Sep 2023 21:48:36 +0800
 
 debian-dde-wallpapers-nonfree (1.7.9) unstable; urgency=medium
 
