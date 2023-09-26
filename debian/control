@@ -10,7 +10,7 @@ Homepage: https://www.deepin.org/
 
 Package: debian-dde-wallpapers-nonfree
 Architecture: all
-Pre-Depends: deepin-wallpapers (>= 1.7.14)
+Pre-Depends: debian-dde-wallpapers (>= 1.7.14)
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Provides:
  deepin-community-wallpapers,
